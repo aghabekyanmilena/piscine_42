@@ -10,9 +10,9 @@ Each folder (C00–C08) represents a unique module, with progressively challengi
 
 - **C00:** Basics of C - `ft_putchar`, `ft_print_alphabet`, and loops.
 - **C01:** Memory and pointers - `ft_swap`, string manipulation.
-- **C02:** Advanced strings - `ft_strcpy`, `ft_strcmp`, and more.
-- **C03:** More about strings.
-- **C04:** 
+- **C02:** String validation functions.
+- **C03:** Advanced strings - `ft_strcpy`, `ft_strcmp`, and more.
+- **C04:** Handling strings and input/output operations.
 - **C05:** Recursion - Factorials, Fibonacci, and other recursive challenges.
 - **C06:** Command-line arguments (argc and argv)
 - **C07:** Advanced memory - Dynamic allocation and `ft_split`.
