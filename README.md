@@ -16,7 +16,7 @@ Each folder (C00–C08) represents a unique module, with progressively challengi
 - **C05:** Recursion - Factorials, Fibonacci, and other recursive challenges.
 - **C06:** Command-line arguments (argc and argv)
 - **C07:** Advanced memory - Dynamic allocation and `ft_split`.
-- **C08:** AHeader files.
+- **C08:** Header files.
 
 ## Highlights ✨
 
