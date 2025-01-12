@@ -25,6 +25,8 @@ Each folder (C00–C08) represents a unique module, with progressively challengi
 - Built robust projects emphasizing **peer collaboration** and **self-learning**.
 
 Each project folder contains its respective exercises and solutions.
+In rush02 project there are some issues connected with bonus part.
+Please check norminette and complie projects with flags.
 
 ## Acknowledgments
 
